@@ -13,5 +13,6 @@ public class IPModify {
 		Runtime.getRuntime().exec(comm);
 		System.out.println("sdfdsf");
 		System.out.println("合并项====");
+		System.out.println("合并项222=======");
 	}
 }
