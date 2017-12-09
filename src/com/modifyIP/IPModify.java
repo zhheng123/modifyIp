@@ -11,5 +11,6 @@ public class IPModify {
 		String comm = "\"cmd\" \"/c\" \"mypro\" \"D:\\mysql\\mysql-5.6.25-winx64\\bin\"";
 		Runtime.getRuntime().exec(comm);
 		System.out.println("sdfdsf");
+		System.out.println("ºÏ²¢Ïî====");
 	}
 }
